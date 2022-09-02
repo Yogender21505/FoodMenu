@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Based on some sort of Hooks.
+This project was Based on User interaction with website like for click,motion etc.
 
 ## Available Scripts
 
